@@ -55,18 +55,9 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ##Screenshots
 
 <img width="1080" height="2400" alt="Screenshot_1753461155" src="https://github.com/user-attachments/assets/72470335-27c8-40d6-9fc6-0212d0f0f8eb" />
-
-
 <img width="1080" height="2400" alt="Screenshot_1753461279" src="https://github.com/user-attachments/assets/1d1f80d2-7407-4f33-9f2e-e1ff3fa710ef" />
-
-
 <img width="1080" height="2400" alt="Screenshot_1753463037" src="https://github.com/user-attachments/assets/e73c0b4e-25ed-42be-9085-d86bb074967d" />
-
-
 <img width="1080" height="2400" alt="Screenshot_1753463143" src="https://github.com/user-attachments/assets/a405288d-ec80-4850-a365-2d11c9bbf286" />
-
-
 <img width="1080" height="2400" alt="Screenshot_1753465525" src="https://github.com/user-attachments/assets/d7294ee8-452c-4bd3-8315-6e3982b19d10" />
-
 
 
