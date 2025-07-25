@@ -1,50 +1,55 @@
-# Welcome to your Expo app 👋
+# My Tasks App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A simple React Native application for managing daily tasks, built with Expo and TypeScript.
 
-## Get started
+## Features
 
-1. Install dependencies
+- **Add Tasks:** Create new tasks with title and description.
+- **Edit Tasks:** Update existing tasks as needed.
+- **Delete Tasks:** Remove tasks you no longer need.
+- **Mark as Complete:** Easily mark tasks as done.
+- **Task Prioritization:** Set priority levels (High, Medium, Low) for each task.
+- **Local Notifications:** Get reminders for your tasks using Expo Notifications.
+- **Persistent Storage:** All tasks are saved locally using AsyncStorage.
+- **Clean UI:** Simple and intuitive user interface for easy navigation.
 
+## Tech Stack
+
+- **React Native:** For building the mobile application.
+- **Expo:** For a streamlined development workflow.
+- **Expo Dev Client:** For custom native development and testing.
+- **Expo Notifications:** For scheduling local notifications.
+- **AsyncStorage:** For local data persistence.
+- **TypeScript:** For type-safe code.
+
+## Setup and Running the App
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/my-tasks-app.git
+   cd my-tasks-app
+   ```
+
+2. **Install dependencies:**
    ```bash
    npm install
    ```
 
-2. Start the app
-
+3. **Run the app (Metro bundler):**
    ```bash
-   npx expo start
+   npm start
    ```
+   This will start the Metro bundler.
 
-In the output, you'll find options to open the app in a
+   - To run the app on your device using **Expo Go**, scan the QR code in your terminal.
+   - For advanced native features, use the **Expo Dev Client**:
+     ```bash
+     npx expo run:android
+     npx expo run:ios
+     ```
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Contributing
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Contributions are welcome! Please open an issue or submit a pull request.
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+##
